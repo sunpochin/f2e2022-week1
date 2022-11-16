@@ -1,14 +1,16 @@
 <template>
   <HelloWorld msg="F2E week 1 project placeholder"/>
+  <HomeViewVue />
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import HomeViewVue from './views/HomeView.vue';
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    HomeViewVue,
   }
 }
 </script>
