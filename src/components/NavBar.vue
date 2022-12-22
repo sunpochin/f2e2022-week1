@@ -28,14 +28,15 @@
   justify-content: space-around;
   align-items: center;
   list-style-type: none;
-
 }
+
 
 li {
   margin: 8px;
 }
 li a:hover {
   color: white;
+  border: black;
 }
 
 </style>
