@@ -30,7 +30,6 @@
   list-style-type: none;
 }
 
-/* love and peace   */
 li {
   margin: 8px;
 }
