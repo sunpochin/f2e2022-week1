@@ -23,12 +23,17 @@
 .outer {
   display: flex;
 }
+
+.inner {
+  display: flex;
+}
 .xxxxx {
   display: flex;
   justify-content: space-around;
   align-items: center;
   list-style-type: none;
 }
+
 
 
 li {
@@ -38,5 +43,4 @@ li a:hover {
   color: white;
   border: black;
 }
-
 </style>
