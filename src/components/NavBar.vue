@@ -24,6 +24,7 @@
   display: flex;
 }
 
+
 .inner {
   display: flex;
 }
