@@ -24,8 +24,9 @@
   display: flex;
 }
 
-
-
+.happy {
+  display: flex;
+}
 .lunaryear {
   display: flex;
 }
