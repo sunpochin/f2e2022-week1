@@ -25,6 +25,10 @@
 }
 
 
+.zouk-festival {
+  display: flex;
+}
+
 .happynew {
   display: flex;
 }
