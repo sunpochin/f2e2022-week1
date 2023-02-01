@@ -25,7 +25,9 @@
 }
 
 
-
+.salsa {
+  display: flex;
+}
 
 .zouk-festival {
   display: flex;
